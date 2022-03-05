@@ -41,7 +41,7 @@ CUDA_VISIBLE_DEVICES=[your gpu ids] python tools/run.py \
 --tasks captioning \
 --datasets m4c_textcaps \
 --model m4c_captioner \
---config configs/captioning/m4c_textcaps/m4c_captioner.yml \
+--config configs/captioning/m4c_textcaps/EAES_m4c_VinVLx154c4.yml \
 --save_dir [save_dir]
 ```
 
@@ -61,7 +61,7 @@ dataset_attributes:
       - [image train feature path], [ocr train feature path]
     imdb_files:
       test:
-      - [your path]/imdb_val_filtered_by_image_id.npy
+      - [your path]/imdb_test_filtered_by_image_id.npy
       train:
       - [your path]/imdb_train.npy
       val:
@@ -79,7 +79,7 @@ CUDA_VISIBLE_DEVICES=[your gpu ids] python tools/run.py \
 --tasks captioning \
 --datasets m4c_textcaps \
 --model m4c_captioner \
---config configs/captioning/m4c_textcaps/m4c_captioner.yml \
+--config configs/captioning/m4c_textcaps/EAES_m4c_VinVLx154c4.yml \
 --save_dir [your save path] \
 --resume_file [your final checkpoint path] \
 --evalai_inference 1 \
