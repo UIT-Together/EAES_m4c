@@ -12,7 +12,7 @@ dataset_attributes:
       - data/vinvl_features_train_images,m4c_textvqa_ocr_en_frcn_features/train_images
     imdb_files:
       test:
-      - m4c_textcaps/vinvl/imdb_val_filtered_by_image_id.npy
+      - m4c_textcaps/vinvl/imdb_test_filtered_by_image_id.npy
       train:
       - m4c_textcaps/vinvl/imdb_train.npy
       val:
