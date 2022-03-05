@@ -61,7 +61,7 @@ dataset_attributes:
       - [image train feature path], [ocr train feature path]
     imdb_files:
       test:
-      - [your path]/imdb_val_filtered_by_image_id.npy
+      - [your path]/imdb_test_filtered_by_image_id.npy
       train:
       - [your path]/imdb_train.npy
       val:
