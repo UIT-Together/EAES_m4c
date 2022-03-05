@@ -104,4 +104,7 @@ If you use any part of our code in your research, please cite our paper:
 
 ## Acknowledgement
 
+This work was supported by the Multimedia Processing Lab
+(MMLab) and UIT-Together research group at the University of Information Technology, VNUHCM.
+
 The code is greatly inspired by the [M4C-Captioner](https://github.com/ronghanghu/mmf).
