@@ -93,13 +93,15 @@ The final checkpoint should be named `m4c_captioner_final.pth` and is store at `
 If you use any part of our code in your research, please cite our paper:
 
 ```BibTex
-@article{khang2022effective,
-  title={EAES: Effective Augmented Embedding Spaces for Text-based Image Captioning},
-  author={Khang, Nguyen and Doanh, C. Bui and Truc, Trinh and Nguyen, D. Vo},
-  journal={IEEE Access},
+@ARTICLE{9732974,
+  author={Nguyen, Khang and Bui, Doanh C. and Trinh, Truc and Vo, Nguyen D.},
+  journal={IEEE Access}, 
+  title={EAES: Effective Augmented Embedding Spaces for Text-based Image Captioning}, 
   year={2022},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2022.3158763}}
 ```
 
 ## Acknowledgement
