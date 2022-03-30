@@ -96,11 +96,11 @@ If you use any part of our code in your research, please cite our paper:
 @ARTICLE{9732974,
   author={Nguyen, Khang and Bui, Doanh C. and Trinh, Truc and Vo, Nguyen D.},
   journal={IEEE Access}, 
-  title={EAES: Effective Augmented Embedding Spaces for Text-based Image Captioning}, 
+  title={EAES: Effective Augmented Embedding Spaces for Text-Based Image Captioning}, 
   year={2022},
-  volume={},
+  volume={10},
   number={},
-  pages={1-1},
+  pages={32443-32452},
   doi={10.1109/ACCESS.2022.3158763}}
 ```
 
